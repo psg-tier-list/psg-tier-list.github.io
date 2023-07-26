@@ -1,8 +1,3 @@
-const update = {
-    thread: 'https://www.reddit.com/r/Barca/comments/14jkp85/rbarca_transfer_reliability_guide_2023_update/',
-    time: 1688342400000
-}
-
 const sources = [
     // Tier 1
     { name: 'Achraf Ben Ayad', type: 'journalist', tier: 1, workplace: 'beIN', link: 'Benayadachraf' },
