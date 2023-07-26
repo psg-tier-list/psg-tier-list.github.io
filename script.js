@@ -4,6 +4,11 @@ const sources = [
     { name: 'Ambre Godillon', type: 'journalist', tier: 1, workplace: 'PSG', link: 'AmbreGodillon' },
     { name: 'Fabrice Porzyc', type: 'journalist', tier: 1, workplace: 'PSG', link: 'fabriceporzyc' },
     { name: 'Bruno Salomon', type: 'journalist', tier: 1, workplace: 'France Bleu Paris', link: 'bruno_salomon' },
+    { name: 'Saber Desfarges', type: 'journalist', tier: 1, workplace: 'TF1', link: 'SaberDesfa' },
+    { name: 'Benjamin Quarez', type: 'journalist', tier: 1, workplace: 'Le Parisien', link: 'B_Quarez' },
+    { name: 'Adrien Chantegrelet', type: 'journalist', tier: 1, workplace: 'Le Parisien', link: 'Adrientp' },
+    { name: 'Marc Mechenoua', type: 'journalist', tier: 1, workplace: 'GOAL', link: 'LeMechenoua' },
+    { name: 'Rubén Uría', type: 'journalist', tier: 1, workplace: 'Sport.es', link: 'rubenuria' },
     // Tier 2
     { name: 'Philippe Goguet', type: 'journalist', tier: 2, workplace: 'CulturePSG', link: 'pgoguet' },
     { name: 'CulturePSG', type: 'media', tier: 2, link: 'CulturePSG' },
