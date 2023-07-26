@@ -6,7 +6,7 @@ const sources = [
     { name: 'Bruno Salomon', type: 'journalist', tier: 1, workplace: 'France Bleu Paris', link: 'bruno_salomon' },
     // Tier 2
     { name: 'Philippe Goguet', type: 'journalist', tier: 2, workplace: 'CulturePSG', link: 'pgoguet' },
-    { name: 'TV3 Cat', type: 'media', tier: 2, link: 'OnzeTv3' },
+    { name: 'CulturePSG', type: 'media', tier: 2, link: 'CulturePSG' },
     // Tier 3
     { name: 'Adrià Albets', type: 'journalist', tier: 3, workplace: 'Cadena SER', link: 'AdriaAlbets' },
     { name: 'Onda Cero', type: 'media', tier: 3, link: 'OndaCero_es' },
