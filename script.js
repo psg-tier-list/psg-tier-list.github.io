@@ -57,7 +57,7 @@ const sources = [
     { name: 'Duncan Castles', type: 'journalist', tier: 4, workplace: 'Freelance', link: 'DuncanCastles' },
     { name: 'Jonathan Johnson', type: 'journalist', tier: 4, workplace: 'CBS Sports', link: 'Jon_LeGossip' },
     { name: 'Julien Laurens', type: 'journalist', tier: 4, workplace: 'ESPN', link: 'LaurensJulien' },
-    { name: 'giltorcy', type: 'journalist', tier: 4, workplace: 'ESPN', link: 'gilpsg77' },
+    { name: 'giltorcy', type: 'journalist', tier: 4, workplace: 'Freelance', link: 'gilpsg77' },
     { name: 'Dario Divialle', type: 'journalist', tier: 4, workplace: 'Sud Radio', link: 'DivialleDario' },
     { name: 'Max Miotto', type: 'journalist', tier: 4, workplace: 'PSG COMMUNITY', link: 'Maxmiotto_' },
     { name: 'The Telegraph', type: 'media', tier: 4, link: 'TeleFootball' },
