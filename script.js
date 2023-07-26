@@ -87,6 +87,7 @@ const sources = [
     { name: 'PSGInside_Actus', type: 'media', tier: 5, link: 'PSGInside_Actus' },
     // Aggregators
     { name: 'PSGhub', tier: 'aggregator', link: 'PSGhub' },
+    { name: 'PSG Talk', tier: 'aggregator', link: 'PSGTalk' },
     { name: 'Paris_SGINFOS', tier: 'aggregator', link: 'Paris_SGINFOS' },
     { name: 'MEGA PSG', tier: 'aggregator', link: 'MegaPSG_' },
 ];
