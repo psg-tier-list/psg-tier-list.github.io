@@ -1,7 +1,7 @@
 const sources = [
     // Tier 1
     { name: 'Julien Maynard', type: 'journalist', tier: 1, workplace: 'PSG', link: 'JulienMaynard' },
-    { name: 'Albert Rogé', type: 'journalist', tier: 1, workplace: 'Sport', link: 'albert_roge' },
+    { name: 'Albert Rogé', type: 'journalist', tier: 1, workplace: '', link: 'albert_roge' },
     { name: 'Edu Polo', type: 'journalist', tier: 1, workplace: 'MD', link: 'EduPolo' },
     { name: 'Fernando Polo', type: 'journalist', tier: 1, workplace: 'MD', link: 'ffpolo' },
     { name: 'Matteo Moretto', type: 'journalist', tier: 1, workplace: 'Relevo', link: 'MatteMoretto' },
