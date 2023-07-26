@@ -17,6 +17,7 @@ const sources = [
     { name: 'Loïc Tanzi', type: 'journalist', tier: 2, workplace: 'L’Équipe', link: 'Tanziloic' },
     { name: 'Gianluca Di Marzio', type: 'journalist', tier: 2, workplace: 'Sky Sport', link: 'DiMarzio' },
     { name: 'Florian Plettenberg', type: 'journalist', tier: 2, workplace: 'Sky Sport', link: 'Plettigoal' },
+    { name: 'Ben Jacobs', type: 'journalist', tier: 2, link: 'JacobsBen' },
     { name: 'CulturePSG', type: 'media', tier: 2, link: 'CulturePSG' },
     // Tier 3
     { name: 'Adrià Albets', type: 'journalist', tier: 3, workplace: 'Cadena SER', link: 'AdriaAlbets' },
