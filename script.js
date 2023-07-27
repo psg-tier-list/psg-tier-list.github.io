@@ -87,6 +87,7 @@ const sources = [
     { name: 'Daily Mail', type: 'media', tier: 5, link: 'DailyMailUK' },
     { name: 'PSGInside_Actus', type: 'media', tier: 5, link: 'PSGInside_Actus' },
     { name: 'E. FM info foot', type: 'media', tier: 5, link: 'EFMinfofoot' },
+    { name: 'PSG REPORTER', type: 'media', tier: 5, link: 'Psg_reporter' },
     // Aggregators
     { name: 'PSGhub', tier: 'aggregator', link: 'PSGhub' },
     { name: 'PSG Talk', tier: 'aggregator', link: 'PSGTalk' },
