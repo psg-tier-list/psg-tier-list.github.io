@@ -86,6 +86,7 @@ const sources = [
     { name: 'El Chiringuito', type: 'media', tier: 5, link: 'elchiringuitotv' },
     { name: 'Daily Mail', type: 'media', tier: 5, link: 'DailyMailUK' },
     { name: 'PSGInside_Actus', type: 'media', tier: 5, link: 'PSGInside_Actus' },
+    { name: 'E. FM info foot', type: 'media', tier: 5, link: 'EFMinfofoot' },
     // Aggregators
     { name: 'PSGhub', tier: 'aggregator', link: 'PSGhub' },
     { name: 'PSG Talk', tier: 'aggregator', link: 'PSGTalk' },
