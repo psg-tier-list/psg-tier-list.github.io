@@ -60,6 +60,7 @@ const sources = [
     { name: 'giltorcy', type: 'journalist', tier: 4, workplace: 'Freelance', link: 'gilpsg77' },
     { name: 'Dario Divialle', type: 'journalist', tier: 4, workplace: 'Sud Radio', link: 'DivialleDario' },
     { name: 'Max Miotto', type: 'journalist', tier: 4, workplace: 'PSG COMMUNITY', link: 'Maxmiotto_' },
+    { name: 'Miloud Kotbi', type: 'journalist', tier: 4, workplace: 'PSG COMMUNITY', link: 'miloudkotbi' },
     { name: 'The Telegraph', type: 'media', tier: 4, link: 'TeleFootball' },
     { name: 'The Guardian', type: 'media', tier: 4, link: 'guardian' },
     { name: 'Tuttosport', type: 'media', tier: 4, link: 'tuttosport' },
