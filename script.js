@@ -93,6 +93,7 @@ const sources = [
     { name: 'PSG Talk', tier: 'aggregator', link: 'PSGTalk' },
     { name: 'Paris_SGINFOS', tier: 'aggregator', link: 'Paris_SGINFOS' },
     { name: 'MEGA PSG', tier: 'aggregator', link: 'MegaPSG_' },
+    { name: 'Paris Galaxy', tier: 'aggregator', link: 'ParisGalaxyOff' },
 ];
 
 sources.forEach(source => {
