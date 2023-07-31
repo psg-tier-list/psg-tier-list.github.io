@@ -11,7 +11,6 @@ const sources = [
     { name: 'Rubén Uría', type: 'journalist', tier: 1, workplace: 'Sport.es', link: 'rubenuria' },
     { name: 'beIN SPORTS', type: 'media', tier: 1, link: 'https://twitter.com/beinsports_FR' },
     // Tier 2
-    { name: 'Philippe Goguet', type: 'journalist', tier: 2, workplace: 'CulturePSG', link: 'pgoguet' },
     { name: 'Guillaume Maillard-Pacini', type: 'journalist', tier: 2, workplace: 'Eurosport', link: 'Guillaumemp' },
     { name: 'Fabrice Hawkins', type: 'journalist', tier: 2, workplace: 'RMC', link: 'FabriceHawkins' },
     { name: 'Arthur Perrot', type: 'journalist', tier: 2, workplace: 'RMC', link: 'ArthurPerrot' },
@@ -25,7 +24,6 @@ const sources = [
     { name: 'Romain Molina', type: 'journalist', tier: 2, workplace: 'Freelance', link: 'Romain_Molina' },
     { name: 'Fabrizio Romano', type: 'journalist', tier: 2, workplace: 'Freelance', link: 'FabrizioRomano' },
     { name: 'RMC Sport', type: 'media', tier: 2, link: 'RMCsport' },
-    { name: 'CulturePSG', type: 'media', tier: 2, link: 'CulturePSG' },
     { name: 'Sky Sport', type: 'media', tier: 2, link: 'SkySports' },
     // Tier 3
     { name: 'Alessandro Grandesso', type: 'journalist', tier: 3, workplace: 'Gazzetta dello Sport', link: 'agrandesso' },
@@ -39,9 +37,11 @@ const sources = [
     { name: 'Djamel', type: 'journalist', tier: 3, workplace: 'Freelance', link: 'Djaameel_' },
     { name: 'Omar Altundag', type: 'journalist', tier: 3, workplace: 'Freelance', link: 'OmarAlt14' },
     { name: 'Esam', type: 'journalist', tier: 3, workplace: 'SPORTS ZONE', link: 'EsamB2Back' },
+    { name: 'Philippe Goguet', type: 'journalist', tier: 3, workplace: 'CulturePSG', link: 'pgoguet' },
     { name: 'Eurosport', type: 'media', tier: 3, link: 'Eurosport_FR' },
     { name: 'Le Parisien', type: 'media', tier: 3, link: 'le_Parisien' },
     { name: 'L’Équipe', type: 'media', tier: 3, link: 'lequipe' },
+    { name: 'CulturePSG', type: 'media', tier: 3, link: 'CulturePSG' },
     { name: 'France Football', type: 'media', tier: 3, link: 'francefootball' },
     { name: 'Canal Supporters', type: 'media', tier: 3, link: 'CanalSupporters' },
     { name: 'The Athletic', type: 'media', tier: 3, link: 'TheAthletic' },
@@ -121,6 +121,3 @@ document.querySelector('.tier-aggregator .tier-content').appendChild(
         `<div class="tier-notes">Note that the following accounts are just news aggregators. They merely report transfer related stories and rumors, but are not the actual source of the story itself.</div>`
     )
 );
-
-document.querySelector('.last-update a').setAttribute('href', update.thread);
-document.querySelector('.last-update a').textContent = `Last update: ${new Date(update.time).toUTCString().slice(0, 16)}`;
