@@ -78,6 +78,7 @@ const sources = [
     { name: 'Grégory Schneider', type: 'journalist', tier: 5, workplace: 'Libération', link: 'SchneiderGrgory' },
     { name: 'Nabil Djellit', type: 'journalist', tier: 5, workplace: 'Freelance', link: 'Nabil_djellit' },
     { name: 'Sabri', type: 'journalist', tier: 5, workplace: 'Freelance', link: 'Sabripsgourien' },
+    { name: 'Pedro Morata', type: 'journalist', tier: 5, workplace: 'Marca', link: 'pedro_morata' },
     { name: 'The Mirror', type: 'media', tier: 5, link: 'DailyMirror' },
     { name: 'AS', type: 'media', tier: 5, link: 'diarioas' },
     { name: 'Mundo Deportivo', type: 'media', tier: 5, link: 'mundodeportivo' },
@@ -88,6 +89,7 @@ const sources = [
     { name: 'PSGInside_Actus', type: 'media', tier: 5, link: 'PSGInside_Actus' },
     { name: 'E. FM info foot', type: 'media', tier: 5, link: 'EFMinfofoot' },
     { name: 'PSG REPORTER', type: 'media', tier: 5, link: 'Psg_reporter' },
+    { name: 'MARCA', type: 'media', tier: 5, link: 'marca' },
     // Aggregators
     { name: 'PSGhub', tier: 'aggregator', link: 'PSGhub' },
     { name: 'PSG Talk', tier: 'aggregator', link: 'PSGTalk' },
