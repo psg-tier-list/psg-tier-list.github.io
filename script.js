@@ -25,6 +25,7 @@ const sources = [
     { name: 'Fabrizio Romano', type: 'journalist', tier: 2, workplace: 'Freelance', link: 'FabrizioRomano' },
     { name: 'RMC Sport', type: 'media', tier: 2, link: 'RMCsport' },
     { name: 'Sky Sport', type: 'media', tier: 2, link: 'SkySports' },
+    { name: 'A Bola', type: 'media', tier: 2, link: 'abolapt' },
     // Tier 3
     { name: 'Alessandro Grandesso', type: 'journalist', tier: 3, workplace: 'Gazzetta dello Sport', link: 'agrandesso' },
     { name: 'Nicolò Schira', type: 'journalist', tier: 3, workplace: 'Gazzetta dello Sport', link: 'NicoSchira' },
@@ -49,7 +50,6 @@ const sources = [
     { name: 'Foot Mercato', type: 'media', tier: 3, link: 'footmercato' },
     { name: 'SPORTS ZONE', type: 'media', tier: 3, link: 'SportsZone__' },
     { name: 'O Jogo', type: 'media', tier: 3, link: 'ojogo' },
-    { name: 'A Bola', type: 'media', tier: 3, link: 'abolapt' },
     // Tier 4
     { name: 'Dominique Sévérac', type: 'journalist', tier: 4, workplace: 'Le Parisien', link: 'le_Parisien' },
     { name: 'Daniel Riolo', type: 'journalist', tier: 4, workplace: 'RMC', link: 'DanielRiolo' },
@@ -72,6 +72,7 @@ const sources = [
     { name: 'ESPN', type: 'media', tier: 4, link: 'ESPNFC' },
     { name: 'J.D Team Paris', type: 'media', tier: 4, link: 'JDTeamPSG1' },
     { name: 'PSG COMMUNITY', type: 'media', tier: 4, link: 'psgcommunity_' },
+    { name: 'Record', type: 'media', tier: 4, link: 'Record_Portugal' },
     // Tier 5
     { name: 'Phillipe Sanfourche', type: 'journalist', tier: 5, workplace: 'RTL', link: 'PhilSANFOURCHE' },
     { name: 'Damien Degorre', type: 'journalist', tier: 5, workplace: 'L’Équipe', link: 'lequipe' },
