@@ -48,6 +48,8 @@ const sources = [
     { name: 'Gazzetta dello Sport', type: 'media', tier: 3, link: 'Gazzetta_it' },
     { name: 'Foot Mercato', type: 'media', tier: 3, link: 'footmercato' },
     { name: 'SPORTS ZONE', type: 'media', tier: 3, link: 'SportsZone__' },
+    { name: 'O Jogo', type: 'media', tier: 3, link: 'ojogo' },
+    { name: 'A Bola', type: 'media', tier: 3, link: 'abolapt' },
     // Tier 4
     { name: 'Dominique Sévérac', type: 'journalist', tier: 4, workplace: 'Le Parisien', link: 'le_Parisien' },
     { name: 'Daniel Riolo', type: 'journalist', tier: 4, workplace: 'RMC', link: 'DanielRiolo' },
