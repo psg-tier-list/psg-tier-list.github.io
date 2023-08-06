@@ -82,6 +82,7 @@ const sources = [
     { name: 'Nabil Djellit', type: 'journalist', tier: 5, workplace: 'Freelance', link: 'Nabil_djellit' },
     { name: 'Sabri', type: 'journalist', tier: 5, workplace: 'Freelance', link: 'Sabripsgourien' },
     { name: 'Pedro Morata', type: 'journalist', tier: 5, workplace: 'Marca', link: 'pedro_morata' },
+    { name: 'Javi Miguel', type: 'journalist', tier: 5, workplace: 'Marca', link: 'fansjavimiguel' },
     { name: 'The Mirror', type: 'media', tier: 5, link: 'DailyMirror' },
     { name: 'AS', type: 'media', tier: 5, link: 'diarioas' },
     { name: 'Mundo Deportivo', type: 'media', tier: 5, link: 'mundodeportivo' },
