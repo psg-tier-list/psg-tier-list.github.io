@@ -8,13 +8,13 @@ const sources = [
     { name: 'Benjamin Quarez', type: 'journalist', tier: 1, workplace: 'Le Parisien', link: 'B_Quarez' },
     { name: 'Adrien Chantegrelet', type: 'journalist', tier: 1, workplace: 'Le Parisien', link: 'Adrientp' },
     { name: 'Marc Mechenoua', type: 'journalist', tier: 1, workplace: 'GOAL', link: 'LeMechenoua' },
-    { name: 'Rubén Uría', type: 'journalist', tier: 1, workplace: 'Sport.es', link: 'rubenuria' },
     { name: 'beIN SPORTS', type: 'media', tier: 1, link: 'https://twitter.com/beinsports_FR' },
     // Tier 2
     { name: 'Guillaume Maillard-Pacini', type: 'journalist', tier: 2, workplace: 'Eurosport', link: 'Guillaumemp' },
     { name: 'Fabrice Hawkins', type: 'journalist', tier: 2, workplace: 'RMC', link: 'FabriceHawkins' },
     { name: 'Arthur Perrot', type: 'journalist', tier: 2, workplace: 'RMC', link: 'ArthurPerrot' },
     { name: 'Loïc Tanzi', type: 'journalist', tier: 2, workplace: 'L’Équipe', link: 'Tanziloic' },
+    { name: 'Rubén Uría', type: 'journalist', tier: 2, workplace: 'Sport.es', link: 'rubenuria' },
     { name: 'Gianluca Di Marzio', type: 'journalist', tier: 2, workplace: 'Sky Sport', link: 'DiMarzio' },
     { name: 'Florian Plettenberg', type: 'journalist', tier: 2, workplace: 'Sky Sport', link: 'Plettigoal' },
     { name: 'Ben Jacobs', type: 'journalist', tier: 2, workplace: 'Freelance', link: 'JacobsBen' },
@@ -71,6 +71,7 @@ const sources = [
     { name: 'ESPN', type: 'media', tier: 4, link: 'ESPNFC' },
     { name: 'PSG COMMUNITY', type: 'media', tier: 4, link: 'psgcommunity_' },
     { name: 'Record', type: 'media', tier: 4, link: 'Record_Portugal' },
+    { name: 'SPORT', type: 'media', tier: 4, link: 'sport' },
     // Tier 5
     { name: 'Phillipe Sanfourche', type: 'journalist', tier: 5, workplace: 'RTL', link: 'PhilSANFOURCHE' },
     { name: 'Damien Degorre', type: 'journalist', tier: 5, workplace: 'L’Équipe', link: 'lequipe' },
