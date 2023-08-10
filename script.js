@@ -60,8 +60,6 @@ const sources = [
     { name: 'Jonathan Johnson', type: 'journalist', tier: 4, workplace: 'CBS Sports', link: 'Jon_LeGossip' },
     { name: 'Julien Laurens', type: 'journalist', tier: 4, workplace: 'ESPN', link: 'LaurensJulien' },
     { name: 'Dario Divialle', type: 'journalist', tier: 4, workplace: 'Sud Radio', link: 'DivialleDario' },
-    { name: 'Max Miotto', type: 'journalist', tier: 4, workplace: 'PSG COMMUNITY', link: 'Maxmiotto_' },
-    { name: 'Miloud Kotbi', type: 'journalist', tier: 4, workplace: 'PSG COMMUNITY', link: 'miloudkotbi' },
     { name: 'The Telegraph', type: 'media', tier: 4, link: 'TeleFootball' },
     { name: 'The Guardian', type: 'media', tier: 4, link: 'guardian' },
     { name: 'Tuttosport', type: 'media', tier: 4, link: 'tuttosport' },
@@ -69,7 +67,7 @@ const sources = [
     { name: 'Canal+', type: 'media', tier: 4, link: 'CanalplusSport' },
     { name: 'RTL', type: 'media', tier: 4, link: 'rtlinfo' },
     { name: 'ESPN', type: 'media', tier: 4, link: 'ESPNFC' },
-    { name: 'PSG COMMUNITY', type: 'media', tier: 4, link: 'psgcommunity_' },
+
     { name: 'Record', type: 'media', tier: 4, link: 'Record_Portugal' },
     { name: 'SPORT', type: 'media', tier: 4, link: 'sport' },
     // Tier 5
@@ -83,6 +81,8 @@ const sources = [
     { name: 'giltorcy', type: 'journalist', tier: 5, workplace: 'Freelance', link: 'gilpsg77' },
     { name: 'Pedro Morata', type: 'journalist', tier: 5, workplace: 'Marca', link: 'pedro_morata' },
     { name: 'Javi Miguel', type: 'journalist', tier: 5, workplace: 'Marca', link: 'fansjavimiguel' },
+    { name: 'Max Miotto', type: 'journalist', tier: 5, workplace: 'PSG COMMUNITY', link: 'Maxmiotto_' },
+    { name: 'Miloud Kotbi', type: 'journalist', tier: 5, workplace: 'PSG COMMUNITY', link: 'miloudkotbi' },
     { name: 'The Mirror', type: 'media', tier: 5, link: 'DailyMirror' },
     { name: 'AS', type: 'media', tier: 5, link: 'diarioas' },
     { name: 'Mundo Deportivo', type: 'media', tier: 5, link: 'mundodeportivo' },
@@ -95,6 +95,7 @@ const sources = [
     { name: 'E. FM info foot', type: 'media', tier: 5, link: 'EFMinfofoot' },
     { name: 'PSG REPORTER', type: 'media', tier: 5, link: 'Psg_reporter' },
     { name: 'MARCA', type: 'media', tier: 5, link: 'marca' },
+    { name: 'PSG COMMUNITY', type: 'media', tier: 5, link: 'psgcommunity_' },
     // Aggregators
     { name: 'PSGhub', tier: 'aggregator', link: 'PSGhub' },
     { name: 'PSG Talk', tier: 'aggregator', link: 'PSGTalk' },
