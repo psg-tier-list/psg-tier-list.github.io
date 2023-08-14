@@ -83,7 +83,7 @@ const sources = [
     { name: 'Javi Miguel', type: 'journalist', tier: 5, workplace: 'Marca', link: 'fansjavimiguel' },
     { name: 'Max Miotto', type: 'journalist', tier: 5, workplace: 'PSG COMMUNITY', link: 'Maxmiotto_' },
     { name: 'Miloud Kotbi', type: 'journalist', tier: 5, workplace: 'PSG COMMUNITY', link: 'miloudkotbi' },
-    { name: 'Vincent Duluc', type: 'journalist', tier: 5, workplace: 'L’Équipe', link: 'miloudkotbi' },
+    { name: 'Vincent Duluc', type: 'journalist', tier: 5, workplace: 'L’Équipe', link: 'vincentduluc' },
     { name: 'The Mirror', type: 'media', tier: 5, link: 'DailyMirror' },
     { name: 'AS', type: 'media', tier: 5, link: 'diarioas' },
     { name: 'Mundo Deportivo', type: 'media', tier: 5, link: 'mundodeportivo' },
