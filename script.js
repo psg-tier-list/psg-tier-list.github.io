@@ -24,9 +24,11 @@ const sources = [
     { name: 'Romain Molina', type: 'journalist', tier: 2, workplace: 'Freelance', link: 'Romain_Molina' },
     { name: 'Djamel', type: 'journalist', tier: 2, workplace: 'Freelance', link: 'Djaameel_' },
     { name: 'Fabrizio Romano', type: 'journalist', tier: 2, workplace: 'Freelance', link: 'FabrizioRomano' },
+    { name: 'Esam', type: 'journalist', tier: 2, workplace: 'SPORTS ZONE', link: 'EsamB2Back' },
     { name: 'RMC Sport', type: 'media', tier: 2, link: 'RMCsport' },
     { name: 'Sky Sport', type: 'media', tier: 2, link: 'SkySports' },
     { name: 'A Bola', type: 'media', tier: 2, link: 'abolapt' },
+    { name: 'SPORTS ZONE', type: 'media', tier: 2, link: 'SportsZone__' },
     // Tier 3
     { name: 'Alessandro Grandesso', type: 'journalist', tier: 3, workplace: 'Gazzetta dello Sport', link: 'agrandesso' },
     { name: 'Nicolò Schira', type: 'journalist', tier: 3, workplace: 'Gazzetta dello Sport', link: 'NicoSchira' },
@@ -37,7 +39,6 @@ const sources = [
     { name: 'Santi Aouna', type: 'journalist', tier: 3, workplace: 'Foot Mercato', link: 'Santi_J_FM' },
     { name: 'Abdellah Boulma', type: 'journalist', tier: 3, workplace: 'Sports.fr', link: 'AbdellahBoulma' },
     { name: 'Omar Altundag', type: 'journalist', tier: 3, workplace: 'Freelance', link: 'OmarAlt14' },
-    { name: 'Esam', type: 'journalist', tier: 3, workplace: 'SPORTS ZONE', link: 'EsamB2Back' },
     { name: 'Philippe Goguet', type: 'journalist', tier: 3, workplace: 'CulturePSG', link: 'pgoguet' },
     { name: 'Eurosport', type: 'media', tier: 3, link: 'Eurosport_FR' },
     { name: 'Le Parisien', type: 'media', tier: 3, link: 'le_Parisien' },
@@ -48,7 +49,6 @@ const sources = [
     { name: 'The Athletic', type: 'media', tier: 3, link: 'TheAthletic' },
     { name: 'Gazzetta dello Sport', type: 'media', tier: 3, link: 'Gazzetta_it' },
     { name: 'Foot Mercato', type: 'media', tier: 3, link: 'footmercato' },
-    { name: 'SPORTS ZONE', type: 'media', tier: 3, link: 'SportsZone__' },
     { name: 'O Jogo', type: 'media', tier: 3, link: 'ojogo' },
     // Tier 4
     { name: 'Dominique Sévérac', type: 'journalist', tier: 4, workplace: 'Le Parisien', link: 'le_Parisien' },
