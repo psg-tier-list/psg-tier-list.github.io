@@ -12,7 +12,6 @@ const sources = [
     // Tier 2
     { name: 'Guillaume Maillard-Pacini', type: 'journalist', tier: 2, workplace: 'Eurosport', link: 'Guillaumemp' },
     { name: 'Fabrice Hawkins', type: 'journalist', tier: 2, workplace: 'RMC', link: 'FabriceHawkins' },
-    { name: 'Arthur Perrot', type: 'journalist', tier: 2, workplace: 'RMC', link: 'ArthurPerrot' },
     { name: 'Loïc Tanzi', type: 'journalist', tier: 2, workplace: 'L’Équipe', link: 'Tanziloic' },
     { name: 'Rubén Uría', type: 'journalist', tier: 2, workplace: 'Sport.es', link: 'rubenuria' },
     { name: 'Gianluca Di Marzio', type: 'journalist', tier: 2, workplace: 'Sky Sport', link: 'DiMarzio' },
@@ -55,6 +54,7 @@ const sources = [
     { name: 'Daniel Riolo', type: 'journalist', tier: 4, workplace: 'RMC', link: 'DanielRiolo' },
     { name: 'Romain Collet-Gaudin', type: 'journalist', tier: 4, workplace: 'Eurosport', link: 'RomainCG75' },
     { name: 'Simone Rovera', type: 'journalist', tier: 4, workplace: 'Freelance', link: 'SimoneRovera' },
+    { name: 'Arthur Perrot', type: 'journalist', tier: 4, workplace: 'RMC', link: 'ArthurPerrot' },
     { name: 'Antonio Vitiello', type: 'journalist', tier: 4, workplace: 'Tuttosport', link: 'AntoVitiello' },
     { name: 'Duncan Castles', type: 'journalist', tier: 4, workplace: 'Freelance', link: 'DuncanCastles' },
     { name: 'Jonathan Johnson', type: 'journalist', tier: 4, workplace: 'CBS Sports', link: 'Jon_LeGossip' },
