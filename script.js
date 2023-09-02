@@ -6,7 +6,6 @@ const sources = [
     { name: 'Bruno Salomon', type: 'journalist', tier: 1, workplace: 'France Bleu Paris', link: 'bruno_salomon' },
     { name: 'Saber Desfarges', type: 'journalist', tier: 1, workplace: 'TF1', link: 'SaberDesfa' },
     { name: 'Benjamin Quarez', type: 'journalist', tier: 1, workplace: 'Le Parisien', link: 'B_Quarez' },
-    { name: 'Adrien Chantegrelet', type: 'journalist', tier: 1, workplace: 'Le Parisien', link: 'Adrientp' },
     { name: 'Marc Mechenoua', type: 'journalist', tier: 1, workplace: 'GOAL', link: 'LeMechenoua' },
     { name: 'beIN SPORTS', type: 'media', tier: 1, link: 'https://twitter.com/beinsports_FR' },
     // Tier 2
@@ -16,6 +15,7 @@ const sources = [
     { name: 'Rubén Uría', type: 'journalist', tier: 2, workplace: 'Sport.es', link: 'rubenuria' },
     { name: 'Gianluca Di Marzio', type: 'journalist', tier: 2, workplace: 'Sky Sport', link: 'DiMarzio' },
     { name: 'Ben Jacobs', type: 'journalist', tier: 2, workplace: 'Freelance', link: 'JacobsBen' },
+    { name: 'Adrien Chantegrelet', type: 'journalist', tier: 2, workplace: 'Le Parisien', link: 'Adrientp' },
     { name: 'Jason Burt', type: 'journalist', tier: 2, workplace: 'The Telegraph', link: 'JBurtTelegraph' },
     { name: 'Marcelo Bechler', type: 'journalist', tier: 2, workplace: 'TNT Sports', link: 'marcelobechler' },
     { name: 'Bruno Andrade', type: 'journalist', tier: 2, workplace: 'UOL Esporte', link: 'brunoandrd' },
