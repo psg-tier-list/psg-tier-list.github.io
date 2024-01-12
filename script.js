@@ -102,6 +102,7 @@ const sources = [
     { name: 'PSG COMMUNITY', type: 'media', tier: 5, link: 'psgcommunity_' },
     // Aggregators
     { name: 'PSGhub', tier: 'aggregator', link: 'PSGhub' },
+    { name: 'PSG Report', tier: 'aggregator', link: 'PSG_Report' },
     { name: 'PSG Talk', tier: 'aggregator', link: 'PSGTalk' },
     { name: 'Paris_SGINFOS', tier: 'aggregator', link: 'Paris_SGINFOS' },
     { name: 'MEGA PSG', tier: 'aggregator', link: 'MegaPSG_' },
